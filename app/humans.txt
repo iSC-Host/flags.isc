@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Suriyaa Kudo -- Founder, Owner -- @SuriyaaKudoIsc
+
+# THANKS
+
+  iSC Host
+  GitHub
+  Google Developers
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
