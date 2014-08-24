@@ -3,7 +3,8 @@
 "version": "1.0",
 "homepage": "http://isc-host.github.io/flags.isc",
 "authors": [
-"iSC Group"
+  "iSC Group",
+  "Suriyaa Kudo <isc.suriyaa@gmail.com> (http://suriyaakudo.bplaced.net)"
 ],
 "description": "iSC Flags library allows you to use and link icons (here: flags) to your website over source.",
 "main": "app/index.html",
