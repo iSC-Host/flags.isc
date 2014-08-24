@@ -1,0 +1,16 @@
+{
+"name": "flags.isc",
+"version": "1.0",
+"homepage": "http://isc-host.github.io/flags.isc",
+"authors": [
+"iSC Group"
+],
+"description": "iSC Flags library allows you to use and link icons (here: flags) to your website over source.",
+"main": "app/index.html",
+"license": "Apache v2",
+"dependencies": {
+"jquery": "~1.11.0",
+"octicons": "~2.1.1",
+"sass": "~3.4.1"
+}
+}
