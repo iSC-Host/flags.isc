@@ -2,7 +2,7 @@
 # HIDDEN FOLDER LINK
 Options +FollowSymLinks
 RewriteEngine On
-RewriteRule ^folder1.*$ http://example.com/ [R=301,L]
+RewriteRule ^app.*$ http://isc-host.github.io/flags.isc/ [R=301,L]
 
 # ERROR sites
 ErrorDocument 400 /_errors/400.html
