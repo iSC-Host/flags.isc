@@ -1,0 +1,15 @@
+## iSC system installation file
+
+# Language
+language: node_js
+
+# Version
+node_js:
+  - 'v0.10'
+  - 'v0.9'
+  - 'v0.8'
+  - 'v0.7'
+
+# Installation packages
+before_install:
+  - gem install sass //Ruby: Sass
