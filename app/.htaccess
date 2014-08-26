@@ -1,8 +1,9 @@
 # .htaccess
 # HIDDEN FOLDER LINK
-Options +FollowSymLinks
 RewriteEngine On
-RewriteRule ^app.*$ http://isc-host.github.io/flags.isc/ [R=301,L]
+        RewriteCond %{HTTP_HOST} ^isc-host.github.io/flags.isc/app/$ [NC]
+        RewriteCond %{REQUEST_URI} ^/app/(.*)$
+        RewriteRule ^(.*)$ - [L,R=404]
 
 # ERROR sites
 ErrorDocument 400 /_errors/400.html
