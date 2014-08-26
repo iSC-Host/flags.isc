@@ -1,0 +1,4 @@
+RewriteEngine On
+        RewriteCond %{HTTP_HOST} ^isc-host.github.io/flags.isc$ [NC]
+        RewriteCond %{REQUEST_URI} ^/app/(.*)$
+        RewriteRule ^(.*)$ - [L,R=404]
