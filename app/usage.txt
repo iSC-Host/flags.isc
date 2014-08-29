@@ -1,2 +1,3 @@
-<!-- iSC Flags Library: USA -->
-  <img src="//isc-host.github.io/flags.isc/app/assets/flags/16/United States of America.png" alt="USA">
+<!-- FLAGS LIBRARY -->
+  <!-- Flag of United States of America -->
+    <img src="//isc-host.github.io/flags.isc/app/assets/flags/16/United States of America.png" alt="USA">
