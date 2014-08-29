@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "name": "Web Starter Kit",
+  "name": "Flags Library",
   "launch_path": "/index.html",
-  "description": "A front-end template that helps you build fast, modern mobile web apps.",
+  "description": "A OpenSource Usage of flags images for your website.",
   "icons": {
     "128": "/images/touch/icon-128x128.png"
   },
   "developer": {
-    "name": "",
-    "url": ""
+    "name": "Suriyaa Kudo",
+    "url": "http://suriyaa.isc"
   },
   "installs_allowed_from": [
     "*"
@@ -18,8 +18,12 @@
   },
   "locales": {
     "en": {
-      "name": "Web Starter Kit",
-      "description": "A front-end template that helps you build fast, modern mobile web apps."
+      "name": "Flags Library",
+      "description": "A OpenSource Usage of flags images for your website."
+    }
+    "de": {
+      "name": "Flags Library",
+      "description": "Eine OpenSource-Verwendung von Flaggenbilder für deine Webseite."
     }
   }
 }
