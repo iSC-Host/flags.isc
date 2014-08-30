@@ -1,7 +1,4 @@
 # .htaccess
-# HIDDEN FOLDER LINK
-RewriteEngine on
-RewriteRule ^app\?$ http://isc-host.github.io/flags.isc [R]
 
 # ERROR sites
 ErrorDocument 400 /_errors/400.html
